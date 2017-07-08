@@ -6,4 +6,5 @@ springside utils 学习
 - ClockUtil 用于测试的时钟
 ## reflect 反射工具
 - ClassUtil 获取类名、包名、父类集合、接口集合、注解集合等
+- ReflectionUtil 获取属性、setter、getter、方法调用
 

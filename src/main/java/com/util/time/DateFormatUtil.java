@@ -1,6 +1,6 @@
 package com.util.time;
 
-import com.util.annotable.NotNull;
+import com.util.base.annotable.NotNull;
 import org.apache.commons.lang3.time.DurationFormatUtils;
 import org.apache.commons.lang3.time.FastDateFormat;
 

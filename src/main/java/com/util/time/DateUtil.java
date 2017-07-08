@@ -1,7 +1,7 @@
 package com.util.time;
 
 
-import com.util.annotable.NotNull;
+import com.util.base.annotable.NotNull;
 import org.apache.commons.lang3.Validate;
 import org.apache.commons.lang3.time.DateUtils;
 
